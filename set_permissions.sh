@@ -1,2 +1,2 @@
-sudo chown -R ubuntu ~/.kube
-sudo chown -R ubuntu ~/.minikub
+sudo chown -R $USER ~/.kube
+sudo chown -R $USER ~/.minikube
